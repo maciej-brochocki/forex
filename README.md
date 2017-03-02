@@ -1,0 +1,2 @@
+# forex
+Forex trading algorithm
